@@ -1,0 +1,32 @@
+body {
+    background-color: #eee;
+}
+
+/* p {
+    max-width: 350px;
+    background-color: #f00;
+    margin: auto;
+    position: fixed;
+    left: 15px; 
+    right: 15px;
+    top :0px;
+    bottom: opx;
+} */
+
+/* #over {
+    width: 100px;
+    height: 100px;
+    overflow-x: scroll;
+} */
+
+img {
+    float: right;
+}
+
+img:hover {
+    opacity: .9;
+}
+
+div p {
+    color: #F00;
+}
